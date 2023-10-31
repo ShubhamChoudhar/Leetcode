@@ -1,4 +1,4 @@
 # Leetcode
 
-Solving Leetcode problems in python and writing the approach behind each solution.
+Solving Leetcode problems in Python and writing the approach behind each solution.
 
